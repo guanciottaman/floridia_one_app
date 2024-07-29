@@ -161,5 +161,6 @@ cython_debug/
 
 share
 pyjnius
+bin
 
 pyrightconfig.json
