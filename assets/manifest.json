@@ -1,0 +1,11 @@
+{
+  "name": "Floridia One",
+  "short_name": "FloridiaOne",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#001427",
+  "theme_color": "#083d77",
+  "description": "This is a customized Flet app description.",
+  "orientation": "natural",
+  "prefer_related_applications": false
+}
