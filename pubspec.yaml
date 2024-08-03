@@ -1,0 +1,10 @@
+name: Floridia One
+description: App per tracciare tutti gli aspetti di Floridia
+
+dependencies:
+  flet_map: any
+  flet_webview: any
+
+flutter:
+  assets:
+    - assets/
